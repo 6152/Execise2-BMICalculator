@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Execise2-BMICalculator</string>
+    <string name="height">Height(m) </string>
+    <string name="your_bmi">Your BMI </string>
+    <string name="weight">Weight(kg)</string>
+    <string name="calculate">calculate</string>
+    <string name="reset">reset</string>
+</resources>
